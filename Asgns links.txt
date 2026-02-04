@@ -1,0 +1,8 @@
+Cp 21-25,
+https://github.com/ghousahmed/javascript-exercises/blob/main/chapters21-25.pdf
+
+Cp 26-30,
+https://github.com/ghousahmed/javascript-exercises/blob/main/chapters26-30.pdf
+
+Cp 31-34,
+https://github.com/ghousahmed/javascript-exercises/blob/main/chapters31-34.pdf
